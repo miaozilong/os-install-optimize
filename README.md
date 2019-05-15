@@ -33,5 +33,7 @@
 
 安装Nexus 设置为手动启动
 
-安装git
+安装git	 生成SSH KEY
+
+
 
