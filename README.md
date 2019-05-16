@@ -35,5 +35,7 @@
 
 安装git	 生成SSH KEY
 
+恢复Microsoft Store
 
+安装Microsoft ToDoList
 
