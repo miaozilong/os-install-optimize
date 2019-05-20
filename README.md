@@ -37,6 +37,8 @@
 
 安装git	 生成SSH KEY
 
+安装Typora软件
+
 恢复Microsoft Store
 
 安装Microsoft ToDoList
