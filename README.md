@@ -12,7 +12,7 @@
 # 安装常用软件
 
 1. 360
-2. Office&Visio 2016
+2. Office&Visio 2016 Project  同时完成激活
 3. QQ轻聊版
 4. 微信
 5. QQ影音
