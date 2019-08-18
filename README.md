@@ -25,11 +25,11 @@
 
 替换winrar为BandiZip
 
-安装金山词霸
+安装金山词霸2012
 
 设置Everything
 
-安装Axure 比Visio更实用
+安装plantuml需要的组件,比visio更方便
 
 安装FDM 和Chrome浏览器适配
 
@@ -42,3 +42,5 @@
 恢复Microsoft Store
 
 安装Microsoft ToDoList
+
+使用vscode替换notepad++,前者更好用
