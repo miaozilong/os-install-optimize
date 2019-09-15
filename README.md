@@ -44,3 +44,5 @@
 安装Microsoft ToDoList
 
 使用vscode替换notepad++,前者更好用
+
+安装screen2gif
