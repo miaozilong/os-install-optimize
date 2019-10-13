@@ -38,3 +38,6 @@
 录音调整
 
 将everything的快捷键调为win+ctrl+f
+
+安装 Hotkey热键驱动程序(Windows 10 64-bit) 用于显示热键
+
