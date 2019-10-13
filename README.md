@@ -36,4 +36,5 @@
 # 下次需要修改的
 
 录音调整
+
 将everything的快捷键调为win+ctrl+f
